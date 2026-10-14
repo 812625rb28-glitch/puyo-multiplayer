@@ -1,0 +1,12 @@
+{
+  "name": "puyo-tetris-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple HTTP relay for the Puyo Tetris HTML game",
+  "scripts": {
+    "start": "node puyo-relay-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
